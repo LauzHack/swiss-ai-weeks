@@ -22,7 +22,7 @@ Come join us for a fun and innovative hackathon exploring the DeepFake technolog
 
 ### **Location:**
 
-[EPFL AI Center Lounge](https://plan.epfl.ch/?room==ELE%20117)
+[EPFL AI Center Lounge](https://plan.epfl.ch/?room==ELE%20117) (ELE 117)
 
 ## 2. Themes
 
