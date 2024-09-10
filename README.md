@@ -81,7 +81,7 @@ Compute / demo:
 
 Up to 4 members per team. Declare your team [here](https://docs.google.com/spreadsheets/d/1lQeFlzjDy1dwIb50kOTt-Wri43hVQuff9qrje67wXnY/edit?usp=sharing).
 
-## 6. Submission Process (TODO)
+## 6. Submission Process
 
 ⚠️ All projects should be submitted on [DevPost]() (link TBA).
 And make sure your team is up-to-date in the [team formation document](https://docs.google.com/spreadsheets/d/1lQeFlzjDy1dwIb50kOTt-Wri43hVQuff9qrje67wXnY/edit?usp=sharing).
