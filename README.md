@@ -2,15 +2,15 @@
 
 Come join us for a fun and innovative hackathon exploring the DeepFake technology! Let's build exciting projects together 🎉
 
-[1. General Information](#1-general-information)
-[2. Themes](#2-themes)
-[3. Resources](#3-resources)
-[4. Schedule](#4-schedule)
-[5. Team Formation](#5-team-formation)
-[6. Submission Process](#6-submission-process)
-[7. Communication (Discord)](#7-communication-discord)
-[8. Evaluation Criteria](#8-evaluation-criteria)
-[9. Jury](#9-jury)
+[1. General Information](#1-general-information)  
+[2. Themes](#2-themes)  
+[3. Resources](#3-resources)  
+[4. Schedule](#4-schedule)  
+[5. Team Formation](#5-team-formation)  
+[6. Submission Process](#6-submission-process)  
+[7. Communication (Discord)](#7-communication-discord)  
+[8. Evaluation Criteria](#8-evaluation-criteria)  
+[9. Jury](#9-jury)  
 [10. Acknowledgements](#10-acknowledgements)
 
 ## 1. General Information
