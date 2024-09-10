@@ -10,9 +10,9 @@ Come join us for a fun and innovative hackathon exploring the DeepFake technolog
 [6. Submission Process](#6-submission-process)  
 [7. Communication (Discord)](#7-communication-discord)  
 [8. Guidelines](#8-guidelines)  
-[9. Evaluation Criteria](#8-evaluation-criteria)  
-[10. Jury](#9-jury)  
-[11. Acknowledgements](#10-acknowledgements)
+[9. Evaluation Criteria](#9-evaluation-criteria)  
+[10. Jury](#10-jury-tba)  
+[11. Acknowledgements](#11-acknowledgements)
 
 ## 1. General Information
 
