@@ -18,7 +18,7 @@ Come join us for a fun and innovative hackathon exploring the DeepFake technolog
 ### **Date & Time:**
 
 - **Date:** Friday, September 13 to Saturday, September 14
-- **Time:** 6:00 PM (Sep 13) to 5:00 PM (Sep 14)
+- **Time:** 6:00 PM - 10:00 PM (Sep 13) to 10:00 AM - 5:00 PM (Sep 14)
 
 ### **Location:**
 
