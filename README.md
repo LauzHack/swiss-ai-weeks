@@ -9,9 +9,10 @@ Come join us for a fun and innovative hackathon exploring the DeepFake technolog
 [5. Team Formation](#5-team-formation)  
 [6. Submission Process](#6-submission-process)  
 [7. Communication (Discord)](#7-communication-discord)  
-[8. Evaluation Criteria](#8-evaluation-criteria)  
-[9. Jury](#9-jury)  
-[10. Acknowledgements](#10-acknowledgements)
+[8. Guidelines](#8-guidelines)
+[9. Evaluation Criteria](#8-evaluation-criteria)  
+[10. Jury](#9-jury)  
+[11. Acknowledgements](#10-acknowledgements)
 
 ## 1. General Information
 
@@ -97,7 +98,24 @@ When submitting your project, in the Additional info step, please select the tra
 
 Real-time information about the event, food service details, and questions related to the challenges will be posted in our personal Discord server (`#deepfake-sep2024` channel). Please use the link sent to you via Luma (as this will add you to the private channel for the event).
 
-## 8. Evaluation Criteria
+## 8. Guidelines
+
+General Guidelines are provided by Lauzhack, though if you choose to be part of a red team, the following additional guidelines apply.
+
+In addition, deep fakes are a sensitive topic, and this hackathon explores both blue team (defensive) and red team (offensive) approaches. For red teams, special rules apply, see below. **However, the following rule applies to everyone in attendance: Consider this a private event \- do not record any deep fakes that are being created during the hackathon (if you have a particular reason why you’d want to do that, speak to the organizers first).**
+
+### Generation track (Red Team) Rules
+
+If you are participating in a red team, please consider the following rules. Our goal is not to limit your creativity - on the contrary, we encourage you to push the boundaries and show us what’s possible! However, it’s important that your well-intended work doesn’t inadvertently cause harm.
+
+- As a principle, do not create deep fakes of real people.
+- For public figures (famous people for which there is a lot of content online), you are allowed to create deep fakes _in the confinement of this event_ - but see rules below.
+- Every deep fake you create must be very clearly labeled as such
+- Refrain from producing deeply offensive content.
+- No sharing or publishing of generated content or code outside the event without review
+- If in doubt: please regularly check-in with organizers to ensure adherence to guidelines
+
+## 9. Evaluation Criteria
 
 Only work done during hackathon will be considered (and should be made explicit) for the project evaluation.
 
@@ -116,9 +134,9 @@ Only work done during hackathon will be considered (and should be made explicit)
 | **5. Integrity Check**                                                                                                    |                  |
 | **TOTAL**                                                                                                                 | **24**           |
 
-## 9. Jury (TBA)
+## 10. Jury (TBA)
 
-## 10. Acknowledgements
+## 11. Acknowledgements
 
 A BIG thanks to the [EPFL AI Center](https://ai.epfl.ch/) for co-hosting and co-organizing this event, and to [Swisscom](https://www.swisscom.ch) for sponsoring 🙏
 
