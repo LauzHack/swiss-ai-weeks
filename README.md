@@ -1,4 +1,4 @@
-# DeepFake Mini-Hackathon Wiki (work in progress!)
+# DeepFake Mini-Hackathon Wiki
 
 Come join us for a fun and innovative hackathon exploring the DeepFake technology! Let's build exciting projects together 🎉
 
@@ -76,14 +76,14 @@ Compute / demo:
 
 ## 5. Team Formation
 
-Up to 4 members per team. Declare your team [here](). TODO LINK
+Up to 4 members per team. Declare your team [here](https://docs.google.com/spreadsheets/d/1lQeFlzjDy1dwIb50kOTt-Wri43hVQuff9qrje67wXnY/edit?usp=sharing).
 
 ## 6. Submission Process (TODO)
 
 ⚠️ All projects should be submitted on [DevPost](). TODO LINK
-And make sure your team is up-to-date in the [team formation document](). TODO LINK
+And make sure your team is up-to-date in the [team formation document](https://docs.google.com/spreadsheets/d/1lQeFlzjDy1dwIb50kOTt-Wri43hVQuff9qrje67wXnY/edit?usp=sharing).
 
-In order to be considered for a prize, **all projects should demo/present (LENGTH TODO) on Saturday afternoon**.
+In order to be considered for a prize, **all projects should demo/present (3 minutes) on Saturday afternoon**.
 
 When submitting your project, in the Additional info step, please select the track that you are competing for (Generation track or Detection track) as in the attached image.
 
