@@ -173,14 +173,14 @@ A BIG thanks to the [EPFL AI Center](https://ai.epfl.ch/) for co-hosting and co-
 
 <table>
   <tr>
-    <td align="center" style="border: none;">
+    <td align="center" style="border: none; width: 50%;">
       <a href="https://www.logitech.com">
         <img src="photos/Logitech.png" alt="Logitech" style="width:100%; max-width:100px;">
         <br>
         <sub><b>Logitech</b></sub>
       </a>
     </td>
-    <td align="center" style="border: none;">
+    <td align="center" style="border: none; width: 50%;">
       <a href="https://www.swisscom.ch">
         <img src="photos/Swisscom.png" alt="Swisscom" style="width:100%; max-width:100px;">
         <br>
