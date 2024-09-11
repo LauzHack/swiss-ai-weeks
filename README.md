@@ -83,12 +83,12 @@ Up to 4 members per team. Declare your team [here](https://docs.google.com/sprea
 
 ## 6. Submission Process
 
-⚠️ All projects should be submitted on [DevPost]() (link TBA).
+⚠️ All projects should be submitted on [DevPost](https://deepfake-epfl-hackathon.devpost.com/).
 And make sure your team is up-to-date in the [team formation document](https://docs.google.com/spreadsheets/d/1lQeFlzjDy1dwIb50kOTt-Wri43hVQuff9qrje67wXnY/edit?usp=sharing).
 
 In order to be considered for a prize, **all projects should demo/present (3 minutes) on Saturday afternoon**.
 
-When submitting your project, in the Additional info step, please select the track that you are doint (Generation or Detection) as in the attached image.
+When submitting your project, in the Additional info step, please select the track that you are doing(Generation or Detection) as in the attached image.
 
 <p align="center">
 <img width="155" alt="IMAGE TBA" src="">
@@ -171,18 +171,18 @@ Only work done during hackathon will be considered (and should be made explicit)
 
 A BIG thanks to the [EPFL AI Center](https://ai.epfl.ch/) for co-hosting and co-organizing this event, and to [Swisscom](https://www.swisscom.ch) and [Logitech](https://www.logitech.com) for sponsoring 🙏
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" style="border: none; width: 50%;">
+    <td align="center" valign="top" width="50%">
       <a href="https://www.logitech.com">
-        <img src="photos/Logitech.png" alt="Logitech" style="width:100%; max-width:100px;">
+        <img src="photos/Logitech.png" alt="Logitech" width="100px">
         <br>
         <sub><b>Logitech</b></sub>
       </a>
     </td>
-    <td align="center" style="border: none; width: 50%;">
+    <td align="center" valign="top" width="50%">
       <a href="https://www.swisscom.ch">
-        <img src="photos/Swisscom.png" alt="Swisscom" style="width:100%; max-width:100px;">
+        <img src="photos/Swisscom.png" alt="Swisscom" width="100px">
         <br>
         <sub><b>Swisscom</b></sub>
       </a>
