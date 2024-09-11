@@ -61,12 +61,12 @@ Compute / demo:
 
 ## 4. Schedule
 
-**Friday, September 13:**
+**Friday, September 13:** (on Zoom for those without the Luma registration approval)
 
 - 6:00 PM: Tutorials/Workshops (AI Center Lounge)
   - Talks/Tutorials
   - Pizza
-  - Spontaneous tutorials based on people's interests.
+  - Spontaneous tutorials based on people's interests
 - 10:00 PM: End of day. You CANNOT stay overnight, but you can continue working remotely.
 
 **Saturday, September 14 (only for participants whose Luma registration was approved):**
