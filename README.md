@@ -88,7 +88,7 @@ And make sure your team is up-to-date in the [team formation document](https://d
 
 In order to be considered for a prize, **all projects should demo/present (3 minutes) on Saturday afternoon**.
 
-When submitting your project, in the Additional info step, please select the track that you are doing(Generation or Detection) as in the attached image.
+When submitting your project, in the Additional info step, please select the track that you are doing (Generation or Detection) as in the attached image.
 
 <p align="center">
 <img width="155" alt="IMAGE TBA" src="">
@@ -175,14 +175,14 @@ A BIG thanks to the [EPFL AI Center](https://ai.epfl.ch/) for co-hosting and co-
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://www.logitech.com">
-        <img src="photos/Logitech.png" alt="Logitech" width="100px">
+        <img src="photos/Logitech.png" alt="Logitech" width="120px">
         <br>
         <sub><b>Logitech</b></sub>
       </a>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://www.swisscom.ch">
-        <img src="photos/Swisscom.png" alt="Swisscom" width="100px">
+        <img src="photos/Swisscom.png" alt="Swisscom" width="120px">
         <br>
         <sub><b>Swisscom</b></sub>
       </a>
