@@ -100,7 +100,7 @@ Real-time information about the event, food service details, and questions relat
 
 ## 8. Guidelines
 
-General Guidelines are provided by Lauzhack, though if you choose to be part of a red team, the following additional guidelines apply.
+General Guidelines are provided by the [LauzHack rules](https://lauzhack.com/pdf/rules.pdf), though if you choose to be part of a red team, the following additional guidelines apply.
 
 In addition, deep fakes are a sensitive topic, and this hackathon explores both blue team (defensive) and red team (offensive) approaches. For red teams, special rules apply, see below. **However, the following rule applies to everyone in attendance: Consider this a private event \- do not record any deep fakes that are being created during the hackathon (if you have a particular reason why you’d want to do that, speak to the organizers first).**
 
