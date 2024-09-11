@@ -147,7 +147,7 @@ Only work done during hackathon will be considered (and should be made explicit)
       </td>
       <td align="center" valign="top" width="25%">
         <a href="https://people.epfl.ch/pascal.frossard">
-          <img src="photos/Pascal_frossard.jpg" alt="Prof. Pascal Frossard"/>
+          <img src="photos/Pascal_Frossard.jpg" alt="Prof. Pascal Frossard"/>
           <br /><sub><b>Prof. Pascal Frossard</b></sub>
         </a>
       </td>
