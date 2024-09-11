@@ -2,17 +2,17 @@
 
 Come join us for a fun and innovative hackathon exploring the DeepFake technology! Let's build exciting projects together 🎉
 
-[1. General Information](#1-general-information)  
-[2. Themes](#2-themes)  
-[3. Resources](#3-resources)  
-[4. Schedule](#4-schedule)  
-[5. Team Formation](#5-team-formation)  
-[6. Submission Process](#6-submission-process)  
-[7. Communication (Discord)](#7-communication-discord)  
-[8. Guidelines](#8-guidelines)  
-[9. Evaluation Criteria](#9-evaluation-criteria)  
-[10. Jury](#10-jury-tba)  
-[11. Acknowledgements](#11-acknowledgements)
+[1. General Information](#1.-general-information)  
+[2. Themes](#2.-themes)  
+[3. Resources](#3.-resources)  
+[4. Schedule](#4.-schedule)  
+[5. Team Formation](#5.-team-formation)  
+[6. Submission Process](#6.-submission-process)  
+[7. Communication](#7.-communication)  
+[8. Guidelines](#8.-guidelines)  
+[9. Evaluation Criteria](#9.-evaluation-criteria)  
+[10. Jury](#10.-jury)  
+[11. Acknowledgements](#11.-acknowledgements)
 
 ## 1. General Information
 
@@ -94,7 +94,7 @@ When submitting your project, in the Additional info step, please select the tra
 <img width="155" alt="IMAGE TBA" src="">
 </p>
 
-## 7. Communication (Discord)
+## 7. Communication
 
 Real-time information about the event, food service details, and questions related to the challenges will be posted in our personal Discord server (`#deepfake-sep2024` channel). Please use the link sent to you via Luma (as this will add you to the private channel for the event).
 
@@ -134,7 +134,50 @@ Only work done during hackathon will be considered (and should be made explicit)
 | **5. Integrity Check**                                                                                                    |                  |
 | **TOTAL**                                                                                                                 | **24**           |
 
-## 10. Jury (TBA)
+## 10. Jury
+
+<style>
+
+table td{
+width: 20%;
+}
+
+img {
+  object-fit: cover;
+  height: 130px;
+  width: 100px;
+}
+</style>
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://people.epfl.ch/sabine.susstrunk">
+          <img src="photos/Sabine_Susstrunk.jpg" alt="Prof. Sabine Süsstrunk"/>
+          <br /><sub><b>Prof. Sabine Süsstrunk</b></sub>
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://people.epfl.ch/pascal.frossard">
+          <img src="photos/Pascal_Frossard.jpg" alt="Prof. Pascal Frossard"/>
+          <br /><sub><b>Prof. Pascal Frossard</b></sub>
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://people.epfl.ch/marcel.salathe">
+          <img src="photos/Marcel_Salathe.jpg" alt="Prof. Marcel Salathé"/>
+          <br /><sub><b>Prof. Marcel Salathé</b></sub>
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://people.epfl.ch/touradj.ebrahimi">
+          <img src="photos/Touradj_Ebrahimi.jpg"  alt="Prof. Touradj Ebrahimi"/>
+          <br /><sub><b>Prof. Touradj Ebrahimi</b></sub>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 11. Acknowledgements
 
