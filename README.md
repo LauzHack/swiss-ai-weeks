@@ -88,7 +88,7 @@ And make sure your team is up-to-date in the [team formation document](https://d
 
 In order to be considered for a prize, **all projects should demo/present (3 minutes) on Saturday afternoon**.
 
-When submitting your project, in the Additional info step, please select the track that you are competing for (Generation track or Detection track) as in the attached image.
+When submitting your project, in the Additional info step, please select the track that you are doint (Generation or Detection) as in the attached image.
 
 <p align="center">
 <img width="155" alt="IMAGE TBA" src="">
