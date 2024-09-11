@@ -61,7 +61,7 @@ Compute / demo:
 
 ## 4. Schedule
 
-**Friday, September 13:** (on Zoom for those without the Luma registration approval)
+**Friday, September 13 (on Zoom for those without the Luma registration approval):**
 
 - 6:00 PM: Tutorials/Workshops (AI Center Lounge)
   - Talks/Tutorials
