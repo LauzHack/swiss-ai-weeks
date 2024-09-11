@@ -102,16 +102,17 @@ Real-time information about the event, food service details, and questions relat
 
 General Guidelines are provided by the [LauzHack rules](https://lauzhack.com/pdf/rules.pdf), though if you choose to be part of a red team, the following additional guidelines apply.
 
-In addition, deep fakes are a sensitive topic, and this hackathon explores both blue team (defensive) and red team (offensive) approaches. For red teams, special rules apply, see below. **However, the following rule applies to everyone in attendance: Consider this a private event \- do not record any deep fakes that are being created during the hackathon (if you have a particular reason why you’d want to do that, speak to the organizers first).**
+As deep fakes are a sensitive topic, and this hackathon explores both blue team (defensive) and red team (offensive) approaches, special rules apply. **The following rule applies to everyone in attendance: Consider this a private event. Do not record any deep fakes  created during the hackathon. If you have any question regarding this rule, ask the organizers first. This is very important as you might be liable for any harm caused by your actions.**
 
+The following additional rules apply to the Red team: 
 ### Generation track (Red Team) Rules
 
-If you are participating in a red team, please consider the following rules. Our goal is not to limit your creativity - on the contrary, we encourage you to push the boundaries and show us what’s possible! However, it’s important that your well-intended work doesn’t inadvertently cause harm.
+Our goal is not to limit your creativity - on the contrary, we encourage you to push the boundaries and show us what’s possible! However, it’s important that your well-intended work does not inadvertently cause harm.
 
-- As a principle, do not create deep fakes of real people.
-- For public figures (famous people for which there is a lot of content online), you are allowed to create deep fakes _in the confinement of this event_ - but see rules below.
+- As a principle, do not create deep fakes of real people
+- For public figures (famous people for which there is a lot of content online), you are allowed to create deep fakes _in the scope of this event_ - see additional rules below
 - Every deep fake you create must be very clearly labeled as such
-- Refrain from producing deeply offensive content.
+- Refrain from producing deeply offensive content
 - No sharing or publishing of generated content or code outside the event without review
 - If in doubt: please regularly check-in with organizers to ensure adherence to guidelines
 
@@ -169,7 +170,7 @@ Only work done during hackathon will be considered (and should be made explicit)
 
 ## 11. Acknowledgements
 
-A BIG thanks to the [EPFL AI Center](https://ai.epfl.ch/) for co-hosting and co-organizing this event, and to [Swisscom](https://www.swisscom.ch) and [Logitech](https://www.logitech.com) for sponsoring 🙏
+A BIG thanks to the [EPFL AI Center](https://ai.epfl.ch/) for co-hosting and co-organizing this event, and to [Swisscom](https://www.swisscom.ch) and [Logitech](https://www.logitech.com) for sponsoring this event!
 
 <table align="center">
   <tr>
