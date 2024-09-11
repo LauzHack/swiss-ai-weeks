@@ -138,6 +138,6 @@ Only work done during hackathon will be considered (and should be made explicit)
 
 ## 11. Acknowledgements
 
-A BIG thanks to the [EPFL AI Center](https://ai.epfl.ch/) for co-hosting and co-organizing this event, and to [Swisscom](https://www.swisscom.ch) for sponsoring 🙏
+A BIG thanks to the [EPFL AI Center](https://ai.epfl.ch/) for co-hosting and co-organizing this event, and to [Swisscom](https://www.swisscom.ch) and [Logitech](https://www.logitech.com) for sponsoring 🙏
 
 And thank you to the labs of [Prof. Touradj Ebrahimi](https://www.epfl.ch/labs/mmspg/) and [Prof. Sabine Susstrunk](https://www.epfl.ch/labs/ivrl/) for providing/proposing content.
