@@ -136,40 +136,28 @@ Only work done during hackathon will be considered (and should be made explicit)
 
 ## 10. Jury
 
-<style>
-
-table td{
-width: 20%;
-}
-
-img {
-  object-fit: cover;
-  height: 130px;
-  width: 100px;
-}
-</style>
 <table align="center">
   <tbody>
     <tr>
-      <td align="center" valign="top">
+      <td align="center" valign="top" width="25%">
         <a href="https://people.epfl.ch/sabine.susstrunk">
           <img src="photos/Sabine_Susstrunk.jpg" alt="Prof. Sabine Süsstrunk"/>
           <br /><sub><b>Prof. Sabine Süsstrunk</b></sub>
         </a>
       </td>
-      <td align="center" valign="top">
+      <td align="center" valign="top" width="25%">
         <a href="https://people.epfl.ch/pascal.frossard">
           <img src="photos/Pascal_Frossard.jpg" alt="Prof. Pascal Frossard"/>
           <br /><sub><b>Prof. Pascal Frossard</b></sub>
         </a>
       </td>
-      <td align="center" valign="top">
+      <td align="center" valign="top" width="25%">
         <a href="https://people.epfl.ch/marcel.salathe">
           <img src="photos/Marcel_Salathe.jpg" alt="Prof. Marcel Salathé"/>
           <br /><sub><b>Prof. Marcel Salathé</b></sub>
         </a>
       </td>
-      <td align="center" valign="top">
+      <td align="center" valign="top" width="25%">
         <a href="https://people.epfl.ch/touradj.ebrahimi">
           <img src="photos/Touradj_Ebrahimi.jpg"  alt="Prof. Touradj Ebrahimi"/>
           <br /><sub><b>Prof. Touradj Ebrahimi</b></sub>
