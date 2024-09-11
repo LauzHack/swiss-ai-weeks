@@ -129,7 +129,7 @@ Only work done during hackathon will be considered (and should be made explicit)
 | &nbsp;&nbsp; 2.1. How innovative, original and unexpected the project is?                                                 | 3                |
 | &nbsp;&nbsp; 2.2. How usable the idea is for the real-world target population to which the project is aimed? hackathon?   | 3                |
 | **3. Prototype**                                                                                                          | **8**            |
-| &nbsp;&nbsp; 3.1. Does the prototype work as advertised by the team, and as expected from a one-day work?                 | 4                |
+| &nbsp;&nbsp; 3.1. Does the prototype work as advertised by the team, and as expected for a one-day project?               | 4                |
 | &nbsp;&nbsp; 3.2. Does the prototype provide a good user experience and usability?                                        | 4                |
 | **4. Presentation**                                                                                                       | **4**            |
 | **5. Integrity Check**                                                                                                    |                  |
@@ -170,7 +170,7 @@ Only work done during hackathon will be considered (and should be made explicit)
 
 ## 11. Acknowledgements
 
-A BIG thanks to the [EPFL AI Center](https://ai.epfl.ch/) for co-hosting and co-organizing this event, and to [Swisscom](https://www.swisscom.ch) and [Logitech](https://www.logitech.com) for sponsoring this event!
+A BIG thank you to the [EPFL AI Center](https://ai.epfl.ch/) for co-hosting and co-organizing this event, and to [Swisscom](https://www.swisscom.ch) and [Logitech](https://www.logitech.com) for sponsoring this event!
 
 <table align="center">
   <tr>
@@ -191,4 +191,4 @@ A BIG thanks to the [EPFL AI Center](https://ai.epfl.ch/) for co-hosting and co-
   </tr>
 </table>
 
-And thank you to the labs of [Prof. Touradj Ebrahimi](https://www.epfl.ch/labs/mmspg/) and [Prof. Sabine Süsstrunk](https://www.epfl.ch/labs/ivrl/) for providing/proposing content.
+Thank you also to the labs of [Prof. Touradj Ebrahimi](https://www.epfl.ch/labs/mmspg/) and [Prof. Sabine Süsstrunk](https://www.epfl.ch/labs/ivrl/) for providing/proposing content.
