@@ -171,4 +171,23 @@ Only work done during hackathon will be considered (and should be made explicit)
 
 A BIG thanks to the [EPFL AI Center](https://ai.epfl.ch/) for co-hosting and co-organizing this event, and to [Swisscom](https://www.swisscom.ch) and [Logitech](https://www.logitech.com) for sponsoring 🙏
 
-And thank you to the labs of [Prof. Touradj Ebrahimi](https://www.epfl.ch/labs/mmspg/) and [Prof. Sabine Susstrunk](https://www.epfl.ch/labs/ivrl/) for providing/proposing content.
+<table>
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://www.logitech.com">
+        <img src="photos/Logitech.png" alt="Logitech" style="width:100%; max-width:100px;">
+        <br>
+        <sub><b>Logitech</b></sub>
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://www.swisscom.ch">
+        <img src="photos/Swisscom.png" alt="Swisscom" style="width:100%; max-width:100px;">
+        <br>
+        <sub><b>Swisscom</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+And thank you to the labs of [Prof. Touradj Ebrahimi](https://www.epfl.ch/labs/mmspg/) and [Prof. Sabine Süsstrunk](https://www.epfl.ch/labs/ivrl/) for providing/proposing content.
