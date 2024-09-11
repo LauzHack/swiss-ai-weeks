@@ -72,14 +72,14 @@ Compute / demo:
 **Saturday, September 14 (only for participants whose Luma registration was approved):**
 
 - 10:00 AM: Breakfast (AI Center Lounge)
-- Till 3:00 PM: Hack, hack, hack!
+- Until 3:00 PM: Hack, hack, hack!
 - 3:30 PM: Demos (for everyone) then prizes 🏆
 
 😋 We will provide dinner on Friday and (breakfast, lunch) on Saturday.
 
 ## 5. Team Formation
 
-Up to 4 members per team. Declare your team [here](https://docs.google.com/spreadsheets/d/1lQeFlzjDy1dwIb50kOTt-Wri43hVQuff9qrje67wXnY/edit?usp=sharing).
+Up to 4 members per team. Register your team [here](https://docs.google.com/spreadsheets/d/1lQeFlzjDy1dwIb50kOTt-Wri43hVQuff9qrje67wXnY/edit?usp=sharing).
 
 ## 6. Submission Process
 
@@ -96,7 +96,7 @@ When submitting your project, in the Additional info step, please select the tra
 
 ## 7. Communication
 
-Real-time information about the event, food service details, and questions related to the challenges will be posted in our personal Discord server (`#deepfake-sep2024` channel). Please use the link sent to you via Luma (as this will add you to the private channel for the event).
+Real-time information about the event, food service details, and questions related to the challenges will be posted in our personal Discord server (`#deepfake-sep2024` channel). Please use the link sent to you via Luma (to get access to the private channel for this event).
 
 ## 8. Guidelines
 
@@ -107,7 +107,7 @@ As deep fakes are a sensitive topic, and this hackathon explores both blue team 
 The following additional rules apply to the Red team: 
 ### Generation track (Red Team) Rules
 
-Our goal is not to limit your creativity - on the contrary, we encourage you to push the boundaries and show us what’s possible! However, it’s important that your well-intended work does not inadvertently cause harm.
+Our goal is not to limit your creativity - on the contrary, we encourage you to push the boundaries and show us what’s possible! However, it’s important that your well-intioned work does not inadvertently cause harm.
 
 - As a principle, do not create deep fakes of real people
 - For public figures (famous people for which there is a lot of content online), you are allowed to create deep fakes _in the scope of this event_ - see additional rules below
