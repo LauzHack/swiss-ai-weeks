@@ -102,9 +102,10 @@ Real-time information about the event, food service details, and questions relat
 
 General Guidelines are provided by the [LauzHack rules](https://lauzhack.com/pdf/rules.pdf), though if you choose to be part of a red team, the following additional guidelines apply.
 
-As deep fakes are a sensitive topic, and this hackathon explores both blue team (defensive) and red team (offensive) approaches, special rules apply. **The following rule applies to everyone in attendance: Consider this a private event. Do not record any deep fakes  created during the hackathon. If you have any question regarding this rule, ask the organizers first. This is very important as you might be liable for any harm caused by your actions.**
+As deep fakes are a sensitive topic, and this hackathon explores both blue team (defensive) and red team (offensive) approaches, special rules apply. **The following rule applies to everyone in attendance: Consider this a private event. Do not record any deep fakes created during the hackathon. If you have any question regarding this rule, ask the organizers first. This is very important as you might be liable for any harm caused by your actions.**
 
-The following additional rules apply to the Red team: 
+The following additional rules apply to the Red team:
+
 ### Generation track (Red Team) Rules
 
 Our goal is not to limit your creativity - on the contrary, we encourage you to push the boundaries and show us what’s possible! However, it’s important that your well-intioned work does not inadvertently cause harm.
@@ -166,7 +167,7 @@ Only work done during hackathon will be considered (and should be made explicit)
       </td>
     </tr>
     <tr>
-      <td align="center" valign="top" width="25%" style="border: none;">
+      <td align="center" valign="top" width="25%" style="border: none; padding: 0; background-color: transparent;">
       </td>
       <td align="center" valign="top" width="25%">
         <a href="https://www.linkedin.com/in/danieldobos/">
@@ -180,7 +181,7 @@ Only work done during hackathon will be considered (and should be made explicit)
           <br /><sub><b>M. Jean-Michel Chardon</b></sub>
         </a>
       </td>
-      <td align="center" valign="top" width="25%" style="border: none;">
+      <td align="center" valign="top" width="25%" style="border: none; padding: 0; background-color: transparent;">
       </td>
     </tr>
   </tbody>
