@@ -165,6 +165,24 @@ Only work done during hackathon will be considered (and should be made explicit)
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="25%" style="border: none;">
+      </td>
+      <td align="center" valign="top" width="25%">
+        <a href="https://www.linkedin.com/in/danieldobos/">
+          <img src="photos/Daniel_Dobos.jpg"  alt="M. Daniel Dobos"/>
+          <br /><sub><b>M. Daniel Dobos</b></sub>
+        </a>
+      </td>
+      <td align="center" valign="top" width="25%">
+        <a href="https://www.linkedin.com/in/jchardon/">
+          <img src="photos/Jean-Michel_Chardon.jpg"  alt="M. Jean-Michel Chardon"/>
+          <br /><sub><b>M. Jean-Michel Chardon</b></sub>
+        </a>
+      </td>
+      <td align="center" valign="top" width="25%" style="border: none;">
+      </td>
+    </tr>
   </tbody>
 </table>
 
