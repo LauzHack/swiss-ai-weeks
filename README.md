@@ -64,7 +64,7 @@ Compute / demo:
 **Friday, September 13 (on Zoom for those without the Luma registration approval):**
 
 - 6:00 PM: Tutorials/Workshops (AI Center Lounge)
-  - Talks/Tutorials
+  - Talks/Tutorials, [slides](https://drive.google.com/drive/folders/1MeCAl-FJ9f3F6xJ0bV0w_zwUMk4XAA_C?usp=drive_link)
   - Pizza
   - Spontaneous tutorials based on people's interests
 - 10:00 PM: End of day. You CANNOT stay overnight, but you can continue working remotely.
