@@ -109,7 +109,7 @@ In order to be considered for a prize, **all projects should demo/present (3 min
 When submitting your project, in the Additional info step, please select the track that you are doing (Generation or Detection) as in the attached image.
 
 <p align="center">
-<img width="155" alt="TBA" src="">
+<img width="155" alt="TBA" src="photos/picking_track.png">
 </p>
 
 ## 7. Communication
