@@ -210,4 +210,4 @@ A BIG thank you to the [EPFL AI Center](https://ai.epfl.ch/) for co-hosting and 
   </tr>
 </table>
 
-Thank you also to the labs of [Prof. Touradj Ebrahimi](https://www.epfl.ch/labs/mmspg/) and [Prof. Sabine Süsstrunk](https://www.epfl.ch/labs/ivrl/) for providing/proposing content.
+Thank you also to the labs of [Prof. Touradj Ebrahimi](https://www.epfl.ch/labs/mmspg/), [Prof. Sabine Süsstrunk](https://www.epfl.ch/labs/ivrl/), [Prof. Sébastien Marcel](https://www.idiap.ch/en/scientific-research/biometrics-security-and-privacy) for providing/proposing content.
