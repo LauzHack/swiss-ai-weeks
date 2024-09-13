@@ -43,14 +43,32 @@ Generation:
 - List of generation resources: https://github.com/Daisy-Zhang/Awesome-Deepfakes
 - Hugging Face course on Diffusion models: [https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/](https://huggingface.co/learn/diffusion-course)
 - (Login required) Short courses from DeepLearning.ai (LangChain, RAG, Vector Databases, etc): https://learn.deeplearning.ai/
+- Activelly developping Face Swaping framework to replace DeepFaceLab: https://github.com/deepfakes/faceswap
 
-Detection:
+Deepfake datasets:
 
-- List of detection resources: https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection
+- The most popular dataset of deepfake videos [FaceForensics++](https://github.com/ondyari/FaceForensics)
+- Another popular dataset of video deepfakes: [Celeb-DF v2](https://github.com/yuezunli/celeb-deepfakeforensics)
 - Image detection challenge dataset: https://www.dfad.unimore.it/challenge/
 - Speaker verification and spoofing: https://www.asvspoof.org/
 - Partially spoofed audio dataset: https://zenodo.org/records/5766198
 - In-the-wild audio deepfakes from politicians and public figures: https://deepfake-total.com/in_the_wild, https://arxiv.org/pdf/2404.13914
+- Audio-Video Multimodal Deepfake Dataset [FakeAVCeleb](FakeAVCeleb)
+- Deepfake Detection Challenge Dataset from Facebook [DFDC](https://ai.meta.com/datasets/dfdc/)
+- Large video dataset of deepfakes by Idiap [DF-Mobio](https://www.idiap.ch/en/scientific-research/data/df-mobio)]
+- Audio-video multimodal deepfake high quality dataset by Idiap [SWAN-DF](https://swan-df.github.io/)
+
+
+Detection:
+
+- List of detection resources: https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection
+- For faces, a normal model (EfficientNet, Xception, ResNets) pretrained on faces should work fine for starters.
+- For voices, a model for speech segmentation could be a start such this by [Pyannote on HuggingFace](https://huggingface.co/pyannote/segmentation)
+
+Evaluation:
+
+- Compute metrics and ROC/DET curves using [Scikit-learn](https://scikit-learn.org/stable/api/sklearn.metrics.html)
+- Metrics for segment-wise evaluations by [Pyannote](https://pyannote.github.io/pyannote-metrics/reference.html) toolite developed for speaker diarization.
 
 Compute / demo:
 
