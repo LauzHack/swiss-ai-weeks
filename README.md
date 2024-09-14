@@ -43,7 +43,7 @@ Generation:
 - List of generation resources: https://github.com/Daisy-Zhang/Awesome-Deepfakes
 - Hugging Face course on Diffusion models: [https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/](https://huggingface.co/learn/diffusion-course)
 - (Login required) Short courses from DeepLearning.ai (LangChain, RAG, Vector Databases, etc): https://learn.deeplearning.ai/
-- Activelly developping Face Swaping framework to replace DeepFaceLab: https://github.com/deepfakes/faceswap
+- Actively developing Face Swapping framework to replace DeepFaceLab: https://github.com/deepfakes/faceswap
 
 Deepfake datasets:
 
@@ -57,7 +57,6 @@ Deepfake datasets:
 - Deepfake Detection Challenge Dataset from Facebook [DFDC](https://ai.meta.com/datasets/dfdc/)
 - Large video dataset of deepfakes by Idiap [DF-Mobio](https://www.idiap.ch/en/scientific-research/data/df-mobio)]
 - Audio-video multimodal deepfake high quality dataset by Idiap [SWAN-DF](https://swan-df.github.io/)
-
 
 Detection:
 
@@ -126,7 +125,7 @@ The following additional rules apply to the Red team:
 
 ### Generation track (Red Team) Rules
 
-Our goal is not to limit your creativity - on the contrary, we encourage you to push the boundaries and show us what’s possible! However, it’s important that your well-intioned work does not inadvertently cause harm.
+Our goal is not to limit your creativity - on the contrary, we encourage you to push the boundaries and show us what’s possible! However, it’s important that your well-intentioned work does not inadvertently cause harm.
 
 - As a principle, do not create deep fakes of real people
 - For public figures (famous people for which there is a lot of content online), you are allowed to create deep fakes _in the scope of this event_ - see additional rules below
