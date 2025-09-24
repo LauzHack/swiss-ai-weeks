@@ -3,16 +3,15 @@
 Come join us for the fun an innovative hackathon exploring AI technologies! Let's build exciting projects together 🎉
 
 [1. General Information](#1-general-information)  
-[2. Themes](#2-themes)  
-[3. Resources](#3-resources)  
-[4. Schedule](#4-schedule)  
-[5. Team Formation](#5-team-formation)  
-[6. Submission Process](#6-submission-process)  
-[7. Communication](#7-communication)  
-[8. Guidelines](#8-guidelines)  
-[9. Evaluation Criteria](#9-evaluation-criteria)  
-[10. Jury](#10-jury)  
-[11. Acknowledgements](#11-acknowledgements)
+[2. Theme](#2-theme)  
+[3. Schedule](#3-schedule)  
+[4. Team Formation](#4-team-formation)  
+[5. Submission Process](#5-submission-process)  
+[6. Communication](#6-communication)  
+[7. Guidelines](#7-guidelines)  
+[8. Evaluation Criteria](#8-evaluation-criteria)  
+[9. Jury](#9-jury)  
+[10. Acknowledgements](#10-acknowledgements)
 
 ## 1. General Information
 
@@ -29,7 +28,7 @@ Come join us for the fun an innovative hackathon exploring AI technologies! Let'
 
 The Swiss {ai} Weeks are hackathons aimed at turning AI research into real societal and economic impact. Through hackathons, expert events, public programs, and startup support, they bring together researchers, developers, entrepreneurs, and citizens to promote ethical, open, and trustworthy AI. A key focus is Switzerland’s first open-source language model, built on values like transparency, responsibility, and multilingualism.
 
-## 4. Schedule
+## 3. Schedule
 
 **Friday, September 26 :**
 
@@ -51,28 +50,28 @@ The Swiss {ai} Weeks are hackathons aimed at turning AI research into real socie
 - **15:00 - 17:00**: Closing ceremony
 - **17:00 - 19:00**: Closing apéro (optional)
 
-## 5. Team Formation
+## 4. Team Formation
 
 Up to 5 members per team. Register your team [here](https://docs.google.com/spreadsheets/d/1WReOKpRpRoAy1omIYhKk0Jx6MZCWK9rJo9Mws4yhp7s/edit?usp=sharing).
 
-## 6. Submission Process
+## 5. Submission Process
 
 ⚠️ All projects should be submitted on [DevPost]() LINK TBA.
 And make sure your team is up-to-date in the [team formation document](https://docs.google.com/spreadsheets/d/1WReOKpRpRoAy1omIYhKk0Jx6MZCWK9rJo9Mws4yhp7s/edit?usp=sharing).
 
 In order to be considered for a prize, **all projects should demo/present (3 minutes) on Saturday afternoon**.
 
-## 7. Communication
+## 6. Communication
 
 Real-time information about the event, food service details, and questions related to the challenges will be posted in our personal Discord server (`#2025-saiw-lausanne` channel). Please use the link sent to you via Luma (to get access to the private channel for this event).
 
 Important announcements will be posted in the `#2025-saiw-announcement` discord channel.
 
-## 8. Guidelines
+## 7. Guidelines
 
 General Guidelines are provided by the [following document](https://shorturl.at/h78NZ) Please make sure you have read them before attending the event.
 
-## 9. Evaluation Criteria
+## 8. Evaluation Criteria
 
 Only work done during hackathon will be considered (and should be made explicit) for the project evaluation.
 
@@ -91,41 +90,41 @@ Only work done during hackathon will be considered (and should be made explicit)
 | **5. Integrity Check**                                                                                                    |                  |
 | **TOTAL**                                                                                                                 | **24**           |
 
-## 10. Jury
+## 9. Jury
 
 <table align="center">
   <tr>
     <td align="center" width="20%">
       <a href="https://people.epfl.ch/andrea.cavallaro">
-        <img src="./photos/Andrea_Cavallaro.jpg" width="140px" style="border-radius:50%;" alt="Prof. Andrea Cavallaro"/>
+        <img src="./photos/Andrea_Cavallaro.jpg" width="140" height="140" style="object-fit:cover;" alt="Prof. Andrea Cavallaro"/>
         <br/>
         <sub><b>Prof. Andrea Cavallaro</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://zurich.impacthub.ch/en/community/beat-seeliger/">
-        <img src="./photos/Beat_Seeliger.jpg" width="140px" style="border-radius:50%;" alt="Beat Seeliger"/>
+        <img src="./photos/Beat_Seeliger.jpg" width="140" height="140" style="object-fit:cover;" alt="Beat Seeliger"/>
         <br/>
         <sub><b>Beat Seeliger</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://www.open-systems.com/leadership/marta-martinez/">
-        <img src="./photos/Marta_Martinez.jpg" width="140px" style="border-radius:50%;" alt="Marta Martinez"/>
+        <img src="./photos/Marta_Martinez.jpg" width="140" height="140" style="object-fit:cover;" alt="Marta Martinez"/>
         <br/>
         <sub><b>Marta Martinez</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://www.linkedin.com/in/danieldobos/">
-        <img src="./photos/Daniel_Dobos.jpg" width="140px" style="border-radius:50%;" alt="Dr. Daniel Dobos"/>
+        <img src="./photos/Daniel_Dobos.jpg" width="140" height="140" style="object-fit:cover;" alt="Dr. Daniel Dobos"/>
         <br/>
         <sub><b>Dr. Daniel Dobos</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://people.epfl.ch/seyed.neshaei">
-        <img src="./photos/Seyed Parsa Neshaei.jpg" width="140px" style="border-radius:50%;" alt="Seyed Parsa Neshaei"/>
+        <img src="./photos/Seyed Parsa Neshaei.jpg" width="140" height="140" style="object-fit:cover;" alt="Seyed Parsa Neshaei"/>
         <br/>
         <sub><b>Seyed Parsa Neshaei</b></sub>
       </a>
@@ -133,9 +132,9 @@ Only work done during hackathon will be considered (and should be made explicit)
   </tr>
 </table>
 
-## 11. Acknowledgements
+## 10. Acknowledgements
 
-A BIG thank you to the [EPFL AI Team](https://epflaiteam.ch) for co-hosting the event, to the [EPFL AI Center](https://ai.epfl.ch/) for hosting, and to [Swisscom](https://www.swisscom.ch) and the [Swiss {ai} Weeks](https://swiss-ai-weeks.ch/) for sponsoring and letting us organise this event!
+A BIG thank you to the [EPFL AI Team](https://epflaiteam.ch) for co-hosting the event, to the [EPFL AI Center](https://ai.epfl.ch/) for hosting, and to [Swisscom](https://www.swisscom.ch), the [Swiss {ai} Weeks](https://swiss-ai-weeks.ch/) and the [Canton de Vaud](https://vd.ch) for sponsoring and letting us organise this event!
 
 <table align="center">
   <tr>
@@ -155,5 +154,3 @@ A BIG thank you to the [EPFL AI Team](https://epflaiteam.ch) for co-hosting the 
     </td>
   </tr>
 </table>
-
-Thank you also to the labs of [Prof. Touradj Ebrahimi](https://www.epfl.ch/labs/mmspg/), [Prof. Sabine Süsstrunk](https://www.epfl.ch/labs/ivrl/), [Prof. Sébastien Marcel](https://www.idiap.ch/en/scientific-research/biometrics-security-and-privacy) for providing/proposing content.
