@@ -56,8 +56,17 @@ Up to 5 members per team. Register your team [here](https://docs.google.com/spre
 
 ## 5. Submission Process
 
-⚠️ All projects should be submitted on [DevPost]() LINK TBA.
+⚠️ All projects should be submitted on [DevPost](https://swiss-ai-weeks-lausanne.devpost.com/).
 And make sure your team is up-to-date in the [team formation document](https://docs.google.com/spreadsheets/d/1WReOKpRpRoAy1omIYhKk0Jx6MZCWK9rJo9Mws4yhp7s/edit?usp=sharing).
+
+The jury may want to run your project themselves. To make this as smooth and reproducible as possible, please ensure your setup is simple and consistent.
+
+We strongly encourage you to:
+
+- **Use [Docker](https://docs.docker.com/get-started/)** to containerize your project.
+- If your project uses Python, consider using the [UV Python package manager](https://docs.astral.sh/uv/).
+
+This will help the jury (and others) run your project without environment issues or complex setup.
 
 In order to be considered for a prize, **all projects should demo/present (3 minutes) on Saturday afternoon**.
 
