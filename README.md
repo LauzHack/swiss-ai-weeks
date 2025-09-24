@@ -96,35 +96,35 @@ Only work done during hackathon will be considered (and should be made explicit)
   <tr>
     <td align="center" width="20%">
       <a href="https://people.epfl.ch/andrea.cavallaro">
-        <img src="./photos/Andrea_Cavallaro.jpg" width="140" height="140" style="object-fit:cover;" alt="Prof. Andrea Cavallaro"/>
+        <img src="./photos/Andrea_Cavallaro.jpg" style="object-fit:cover;" alt="Prof. Andrea Cavallaro"/>
         <br/>
         <sub><b>Prof. Andrea Cavallaro</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://zurich.impacthub.ch/en/community/beat-seeliger/">
-        <img src="./photos/Beat_Seeliger.jpg" width="140" height="140" style="object-fit:cover;" alt="Beat Seeliger"/>
+        <img src="./photos/Beat_Seeliger.jpg" alt="Beat Seeliger"/>
         <br/>
         <sub><b>Beat Seeliger</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://www.open-systems.com/leadership/marta-martinez/">
-        <img src="./photos/Marta_Martinez.jpg" width="140" height="140" style="object-fit:cover;" alt="Marta Martinez"/>
+        <img src="./photos/Marta_Martinez.jpg" alt="Marta Martinez"/>
         <br/>
         <sub><b>Marta Martinez</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://www.linkedin.com/in/danieldobos/">
-        <img src="./photos/Daniel_Dobos.jpg" width="140" height="140" style="object-fit:cover;" alt="Dr. Daniel Dobos"/>
+        <img src="./photos/Daniel_Dobos.jpg" alt="Dr. Daniel Dobos"/>
         <br/>
         <sub><b>Dr. Daniel Dobos</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://people.epfl.ch/seyed.neshaei">
-        <img src="./photos/Seyed Parsa Neshaei.jpg" width="140" height="140" style="object-fit:cover;" alt="Seyed Parsa Neshaei"/>
+        <img src="./photos/Seyed Parsa Neshaei.jpg" alt="Seyed Parsa Neshaei"/>
         <br/>
         <sub><b>Seyed Parsa Neshaei</b></sub>
       </a>
@@ -138,18 +138,25 @@ A BIG thank you to the [EPFL AI Team](https://epflaiteam.ch) for co-hosting the 
 
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" width="10%">
+      <a href="https://www.swisscom.ch/en/residential.html">
+        <img src="./photos/Swisscom.png" alt="Swisscom" height="134.4px"/>
+        <br/>
+        <sub><b>Swisscom</b></sub>
+      </a>
+    </td>
+    <td align="center" width="10%">
       <a href="https://swiss-ai-weeks.ch/">
-        <img src="photos/SaW.png" alt="Swiss {ai} Weeks" width="120px">
-        <br>
+        <img src="./photos/SaW.png" alt="Swiss {ai} Weeks" height="134.4px"/>
+        <br/>
         <sub><b>Swiss {ai} Weeks</b></sub>
       </a>
     </td>
-    <td align="center" valign="top" width="50%">
-      <a href="https://www.swisscom.ch">
-        <img src="photos/Swisscom.png" alt="Swisscom" width="120px">
-        <br>
-        <sub><b>Swisscom</b></sub>
+    <td align="center" width="10%">
+      <a href="https://people.epfl.ch/seyed.neshaei">
+        <img src="./photos/cdv.svg" height="134.4px" alt="Canton de Vaud"/>
+        <br/>
+        <sub><b>Canton de Vaud</b></sub>
       </a>
     </td>
   </tr>
