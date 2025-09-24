@@ -69,7 +69,7 @@ Important announcements will be posted in the `#2025-saiw-announcement` discord 
 
 ## 7. Guidelines
 
-General Guidelines are provided by the [following document](https://shorturl.at/h78NZ) Please make sure you have read them before attending the event.
+General Guidelines are provided by the [following document](https://shorturl.at/h78NZ). Please make sure you have read them before attending the event.
 
 ## 8. Evaluation Criteria
 
@@ -134,7 +134,7 @@ Only work done during hackathon will be considered (and should be made explicit)
 
 ## 10. Acknowledgements
 
-A BIG thank you to the [EPFL AI Team](https://epflaiteam.ch) for co-hosting the event, to the [EPFL AI Center](https://ai.epfl.ch/) for hosting, and to [Swisscom](https://www.swisscom.ch), the [Swiss {ai} Weeks](https://swiss-ai-weeks.ch/) and the [Canton de Vaud](https://vd.ch) for sponsoring and letting us organise this event!
+A BIG thank you to the [EPFL AI Team](https://epflaiteam.ch) for co-hosting the event, to the [EPFL AI Center](https://ai.epfl.ch/) for kindly allowing us to use their room, and to [Swisscom](https://www.swisscom.ch), the [Swiss {ai} Weeks](https://swiss-ai-weeks.ch/) and the [Canton de Vaud](https://vd.ch) for sponsoring and letting us organise this event!
 
 <table align="center">
   <tr>
