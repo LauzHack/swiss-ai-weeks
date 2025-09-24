@@ -1,6 +1,6 @@
-# DeepFake Mini-Hackathon Wiki
+# Swiss {ai} Weeks Lausanne - Practical information
 
-Come join us for a fun and innovative hackathon exploring the DeepFake technology! Let's build exciting projects together 🎉
+Come join us for the fun an innovative hackathon exploring AI technologies! Let's build exciting projects together 🎉
 
 [1. General Information](#1-general-information)  
 [2. Themes](#2-themes)  
@@ -18,121 +18,59 @@ Come join us for a fun and innovative hackathon exploring the DeepFake technolog
 
 ### **Date & Time:**
 
-- **Date:** Friday, September 13 to Saturday, September 14
-- **Time:** 6:00 PM - 10:00 PM (Sep 13) to 10:00 AM - 5:00 PM (Sep 14)
+- **Date:** Friday, September 26 to Saturday, September 27
+- **Time:** 8:00 AM (Sep 26) - 8:00 PM (Sep 27)
 
 ### **Location:**
 
-- Those with "Approved" status on [Luma](https://lu.ma/faw7lqzg): [EPFL AI Center Lounge](https://plan.epfl.ch/?room==ELE%20117) (ELE 117)
-- Everyone else: [Zoom](https://epfl.zoom.us/j/63964720958)
+- [EPFL AI Center Lounge](https://plan.epfl.ch/?room==ELE%20117) (ELE 117) + surrounding rooms
 
-## 2. Themes
+## 2. Theme
 
-[LauzHack](https://lauzhack.com/) is hosting a mini-hackathon with two exciting tracks:
-
-1. **Generation (red team)**
-
-2. **Detection (blue team)**
-
-## 3. Resources
-
-Generation:
-
-- Face swap tools: https://analyticsindiamag.com/topics/best-face-swap-ai-tools/
-- Real-time face swap: https://github.com/hacksider/Deep-Live-Cam
-- List of generation resources: https://github.com/Daisy-Zhang/Awesome-Deepfakes
-- Hugging Face course on Diffusion models: [https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/](https://huggingface.co/learn/diffusion-course)
-- (Login required) Short courses from DeepLearning.ai (LangChain, RAG, Vector Databases, etc): https://learn.deeplearning.ai/
-- Actively developing Face Swapping framework to replace DeepFaceLab: https://github.com/deepfakes/faceswap
-
-Deepfake datasets:
-
-- The most popular dataset of deepfake videos [FaceForensics++](https://github.com/ondyari/FaceForensics)
-- Another popular dataset of video deepfakes: [Celeb-DF v2](https://github.com/yuezunli/celeb-deepfakeforensics)
-- Image detection challenge dataset: https://www.dfad.unimore.it/challenge/
-- Speaker verification and spoofing: https://www.asvspoof.org/
-- Partially spoofed audio dataset: https://zenodo.org/records/5766198
-- In-the-wild audio deepfakes from politicians and public figures: https://deepfake-total.com/in_the_wild, https://arxiv.org/pdf/2404.13914
-- Audio-Video Multimodal Deepfake Dataset [FakeAVCeleb](FakeAVCeleb)
-- Deepfake Detection Challenge Dataset from Facebook [DFDC](https://ai.meta.com/datasets/dfdc/)
-- Large video dataset of deepfakes by Idiap [DF-Mobio](https://www.idiap.ch/en/scientific-research/data/df-mobio)]
-- Audio-video multimodal deepfake high quality dataset by Idiap [SWAN-DF](https://swan-df.github.io/)
-
-Detection:
-
-- List of detection resources: https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection
-- For faces, a normal model (EfficientNet, Xception, ResNets) pretrained on faces should work fine for starters.
-- For voices, a model for speech segmentation could be a start such this by [Pyannote on HuggingFace](https://huggingface.co/pyannote/segmentation)
-
-Evaluation:
-
-- Compute metrics and ROC/DET curves using [Scikit-learn](https://scikit-learn.org/stable/api/sklearn.metrics.html)
-- Metrics for segment-wise evaluations by [Pyannote](https://pyannote.github.io/pyannote-metrics/reference.html) toolite developed for speaker diarization.
-
-Compute / demo:
-
-- You can message `Eric (organizer)` on the LauzHack Discord for an OpenAI key!
-- Google Colab for GPU compute: https://colab.research.google.com/
-- Getting started with EPFL clusters: https://github.com/epfml/getting-started-lauzhack/
-- [Gradio](https://www.gradio.app/) for hosting a demo.
+The Swiss {ai} Weeks are hackathons aimed at turning AI research into real societal and economic impact. Through hackathons, expert events, public programs, and startup support, they bring together researchers, developers, entrepreneurs, and citizens to promote ethical, open, and trustworthy AI. A key focus is Switzerland’s first open-source language model, built on values like transparency, responsibility, and multilingualism.
 
 ## 4. Schedule
 
-**Friday, September 13 (on Zoom for those without the Luma registration approval):**
+**Friday, September 26 :**
 
-- 6:00 PM: Tutorials/Workshops (AI Center Lounge)
-  - Talks/Tutorials, [slides](https://drive.google.com/drive/folders/1MeCAl-FJ9f3F6xJ0bV0w_zwUMk4XAA_C?usp=drive_link)
-  - Pizza
-  - Spontaneous tutorials based on people's interests
-- 10:00 PM: End of day. You CANNOT stay overnight, but you can continue working remotely.
+- **8:00**: Registration and breakfast
+- **10:00 - 10:15**: Opening ceremony
+- **10:20 - 11:40**: Tech talks
+- **11:40 - 12:00**: Team building
+- **12:00**: Hacking starts
+- **12:00 - 13:00**: Lunch
+- **18:30 - 19:30**: Dinner
 
-**Saturday, September 14 (only for participants whose Luma registration was approved):**
+**Saturday, September 27**:
 
-- 10:00 AM: Breakfast (AI Center Lounge)
-- Until 3:00 PM: Hack, hack, hack!
-- 3:30 PM: Demos (for everyone) then prizes 🏆
-
-😋 We will provide dinner on Friday and (breakfast, lunch) on Saturday.
+- **0:00 - 1:00**: Midnight snack
+- **7:00 - 9:00**: Breakfast
+- **12:00**: Hacking ends
+- **11:30 - 12:30**: Lunch
+- **12:30 - 15:00**: Judging
+- **15:00 - 17:00**: Closing ceremony
+- **17:00 - 19:00**: Closing apéro (optional)
 
 ## 5. Team Formation
 
-Up to 4 members per team. Register your team [here](https://docs.google.com/spreadsheets/d/1lQeFlzjDy1dwIb50kOTt-Wri43hVQuff9qrje67wXnY/edit?usp=sharing).
+Up to 5 members per team. Register your team [here](https://docs.google.com/spreadsheets/d/1WReOKpRpRoAy1omIYhKk0Jx6MZCWK9rJo9Mws4yhp7s/edit?usp=sharing).
 
 ## 6. Submission Process
 
-⚠️ All projects should be submitted on [DevPost](https://deepfake-epfl-hackathon.devpost.com/).
-And make sure your team is up-to-date in the [team formation document](https://docs.google.com/spreadsheets/d/1lQeFlzjDy1dwIb50kOTt-Wri43hVQuff9qrje67wXnY/edit?usp=sharing).
+⚠️ All projects should be submitted on [DevPost]() LINK TBA.
+And make sure your team is up-to-date in the [team formation document](https://docs.google.com/spreadsheets/d/1WReOKpRpRoAy1omIYhKk0Jx6MZCWK9rJo9Mws4yhp7s/edit?usp=sharing).
 
 In order to be considered for a prize, **all projects should demo/present (3 minutes) on Saturday afternoon**.
 
-When submitting your project, in the Additional info step, please select the track that you are doing (Generation or Detection) as in the attached image.
-
-<p align="center">
-<img width="500" alt="TBA" src="photos/picking_track.png">
-</p>
-
 ## 7. Communication
 
-Real-time information about the event, food service details, and questions related to the challenges will be posted in our personal Discord server (`#deepfake-sep2024` channel). Please use the link sent to you via Luma (to get access to the private channel for this event).
+Real-time information about the event, food service details, and questions related to the challenges will be posted in our personal Discord server (`#2025-saiw-lausanne` channel). Please use the link sent to you via Luma (to get access to the private channel for this event).
+
+Important announcements will be posted in the `#2025-saiw-announcement` discord channel.
 
 ## 8. Guidelines
 
-General Guidelines are provided by the [LauzHack rules](https://lauzhack.com/pdf/rules.pdf), though if you choose to be part of a red team, the following additional guidelines apply.
-
-As deep fakes are a sensitive topic, and this hackathon explores both blue team (defensive) and red team (offensive) approaches, special rules apply. **The following rule applies to everyone in attendance: Consider this a private event. Do not record any deep fakes created during the hackathon. If you have any question regarding this rule, ask the organizers first. This is very important as you might be liable for any harm caused by your actions.**
-
-The following additional rules apply to the Red team:
-
-### Generation track (Red Team) Rules
-
-Our goal is not to limit your creativity - on the contrary, we encourage you to push the boundaries and show us what’s possible! However, it’s important that your well-intentioned work does not inadvertently cause harm.
-
-- As a principle, do not create deep fakes of real people
-- For public figures (famous people for which there is a lot of content online), you are allowed to create deep fakes _in the scope of this event_ - see additional rules below
-- Every deep fake you create must be very clearly labeled as such
-- Refrain from producing deeply offensive content
-- No sharing or publishing of generated content or code outside the event without review
-- If in doubt: please regularly check-in with organizers to ensure adherence to guidelines
+General Guidelines are provided by the [following document](https://shorturl.at/h78NZ) Please make sure you have read them before attending the event.
 
 ## 9. Evaluation Criteria
 
@@ -156,65 +94,56 @@ Only work done during hackathon will be considered (and should be made explicit)
 ## 10. Jury
 
 <table align="center">
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="25%">
-        <a href="https://people.epfl.ch/sabine.susstrunk">
-          <img src="photos/Sabine_Susstrunk.jpg" alt="Prof. Sabine Süsstrunk"/>
-          <br /><sub><b>Prof. Sabine Süsstrunk</b></sub>
-        </a>
-      </td>
-      <td align="center" valign="top" width="25%">
-        <a href="https://people.epfl.ch/pascal.frossard">
-          <img src="photos/Pascal_Frossard.jpg" alt="Prof. Pascal Frossard"/>
-          <br /><sub><b>Prof. Pascal Frossard</b></sub>
-        </a>
-      </td>
-      <td align="center" valign="top" width="25%">
-        <a href="https://people.epfl.ch/marcel.salathe">
-          <img src="photos/Marcel_Salathe.jpg" alt="Prof. Marcel Salathé"/>
-          <br /><sub><b>Prof. Marcel Salathé</b></sub>
-        </a>
-      </td>
-      <td align="center" valign="top" width="25%">
-        <a href="https://people.epfl.ch/touradj.ebrahimi">
-          <img src="photos/Touradj_Ebrahimi.jpg"  alt="Prof. Touradj Ebrahimi"/>
-          <br /><sub><b>Prof. Touradj Ebrahimi</b></sub>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="25%" style="border: none; padding: 0; background-color: transparent;">
-      </td>
-      <td align="center" valign="top" width="25%">
-        <a href="https://www.linkedin.com/in/danieldobos/">
-          <img src="photos/Daniel_Dobos.jpg"  alt="M. Daniel Dobos"/>
-          <br /><sub><b>Dr. Daniel Dobos</b></sub>
-        </a>
-      </td>
-      <td align="center" valign="top" width="25%">
-        <a href="https://www.linkedin.com/in/jchardon/">
-          <img src="photos/Jean-Michel_Chardon.jpg"  alt="M. Jean-Michel Chardon"/>
-          <br /><sub><b>Mr. Jean-Michel Chardon</b></sub>
-        </a>
-      </td>
-      <td align="center" valign="top" width="25%" style="border: none; padding: 0; background-color: transparent;">
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://people.epfl.ch/andrea.cavallaro">
+        <img src="./photos/Andrea_Cavallaro.jpg" width="140px" style="border-radius:50%;" alt="Prof. Andrea Cavallaro"/>
+        <br/>
+        <sub><b>Prof. Andrea Cavallaro</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://zurich.impacthub.ch/en/community/beat-seeliger/">
+        <img src="./photos/Beat_Seeliger.jpg" width="140px" style="border-radius:50%;" alt="Beat Seeliger"/>
+        <br/>
+        <sub><b>Beat Seeliger</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.open-systems.com/leadership/marta-martinez/">
+        <img src="./photos/Marta_Martinez.jpg" width="140px" style="border-radius:50%;" alt="Marta Martinez"/>
+        <br/>
+        <sub><b>Marta Martinez</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.linkedin.com/in/danieldobos/">
+        <img src="./photos/Daniel_Dobos.jpg" width="140px" style="border-radius:50%;" alt="Dr. Daniel Dobos"/>
+        <br/>
+        <sub><b>Dr. Daniel Dobos</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://people.epfl.ch/seyed.neshaei">
+        <img src="./photos/Seyed Parsa Neshaei.jpg" width="140px" style="border-radius:50%;" alt="Seyed Parsa Neshaei"/>
+        <br/>
+        <sub><b>Seyed Parsa Neshaei</b></sub>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## 11. Acknowledgements
 
-A BIG thank you to the [EPFL AI Center](https://ai.epfl.ch/) for co-hosting and co-organizing this event, and to [Swisscom](https://www.swisscom.ch) and [Logitech](https://www.logitech.com) for sponsoring this event!
+A BIG thank you to the [EPFL AI Team](https://epflaiteam.ch) for co-hosting the event, to the [EPFL AI Center](https://ai.epfl.ch/) for hosting, and to [Swisscom](https://www.swisscom.ch) and the [Swiss {ai} Weeks](https://swiss-ai-weeks.ch/) for sponsoring and letting us organise this event!
 
 <table align="center">
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://www.logitech.com">
-        <img src="photos/Logitech.png" alt="Logitech" width="120px">
+      <a href="https://swiss-ai-weeks.ch/">
+        <img src="photos/SaW.png" alt="Swiss {ai} Weeks" width="120px">
         <br>
-        <sub><b>Logitech</b></sub>
+        <sub><b>Swiss {ai} Weeks</b></sub>
       </a>
     </td>
     <td align="center" valign="top" width="50%">
