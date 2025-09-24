@@ -65,6 +65,7 @@ We strongly encourage you to:
 
 - **Use [Docker](https://docs.docker.com/get-started/)** to containerize your project.
 - If your project uses Python, consider using the [UV Python package manager](https://docs.astral.sh/uv/).
+- Write a small document providing the commands and steps necessary to run your project.
 
 This will help the jury (and others) run your project without environment issues or complex setup.
 
