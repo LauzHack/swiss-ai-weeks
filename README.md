@@ -138,21 +138,21 @@ A BIG thank you to the [EPFL AI Team](https://epflaiteam.ch) for co-hosting the 
 
 <table align="center">
   <tr>
-    <td align="center" width="10%">
+    <td align="center">
       <a href="https://www.swisscom.ch/en/residential.html">
         <img src="./photos/Swisscom.png" alt="Swisscom" height="175.2px"/>
         <br/>
         <sub><b>Swisscom</b></sub>
       </a>
     </td>
-    <td align="center" width="10%">
+    <td align="center">
       <a href="https://swiss-ai-weeks.ch/">
         <img src="./photos/SaW.png" alt="Swiss {ai} Weeks" height="175.2px"/>
         <br/>
         <sub><b>Swiss {ai} Weeks</b></sub>
       </a>
     </td>
-    <td align="center" width="10%">
+    <td align="center">
       <a href="https://people.epfl.ch/seyed.neshaei">
         <img src="./photos/cdv.svg" alt="Canton de Vaud" height="175.2px"/>
         <br/>
