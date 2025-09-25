@@ -104,39 +104,46 @@ Only work done during hackathon will be considered (and should be made explicit)
 
 <table align="center">
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="16.6%">
       <a href="https://people.epfl.ch/andrea.cavallaro">
         <img src="./photos/Andrea_Cavallaro.jpg" style="object-fit:cover;" alt="Prof. Andrea Cavallaro"/>
         <br/>
         <sub><b>Prof. Andrea Cavallaro</b></sub>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16.6%">
       <a href="https://zurich.impacthub.ch/en/community/beat-seeliger/">
-        <img src="./photos/Beat_Seeliger.jpg" alt="Beat Seeliger"/>
+        <img src="./photos/beat-seeliger.png" alt="Beat Seeliger"/>
         <br/>
         <sub><b>Beat Seeliger</b></sub>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16.6%">
       <a href="https://www.open-systems.com/leadership/marta-martinez/">
         <img src="./photos/Marta_Martinez.jpg" alt="Marta Martinez"/>
         <br/>
         <sub><b>Marta Martinez</b></sub>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16.6%">
       <a href="https://www.linkedin.com/in/danieldobos/">
         <img src="./photos/Daniel_Dobos.jpg" alt="Dr. Daniel Dobos"/>
         <br/>
         <sub><b>Dr. Daniel Dobos</b></sub>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16.6%">
       <a href="https://people.epfl.ch/seyed.neshaei">
         <img src="./photos/Seyed Parsa Neshaei.jpg" alt="Seyed Parsa Neshaei"/>
         <br/>
         <sub><b>Seyed Parsa Neshaei</b></sub>
+      </a>
+    </td>
+    <td align="center" width="16.6%">
+      <a href="https://people.epfl.ch/kaustubh.ponkshe">
+        <img src="./photos/Kaustubh Shripadraj Ponkshe.jpg" alt="Kaustubh Shripadraj Ponkshe"/>
+        <br/>
+        <sub><b>Kaustubh Shripadraj Ponkshe</b></sub>
       </a>
     </td>
   </tr>
