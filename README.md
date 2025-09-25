@@ -113,7 +113,7 @@ Only work done during hackathon will be considered (and should be made explicit)
     </td>
     <td align="center" width="16.6%">
       <a href="https://zurich.impacthub.ch/en/community/beat-seeliger/">
-        <img src="./photos/beat-seeliger.jpg" alt="Beat Seeliger"/>
+        <img src="./photos/beat-seeliger.png" alt="Beat Seeliger"/>
         <br/>
         <sub><b>Beat Seeliger</b></sub>
       </a>
