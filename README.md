@@ -141,7 +141,7 @@ Only work done during hackathon will be considered (and should be made explicit)
     </td>
     <td align="center" width="16.6%">
       <a href="https://people.epfl.ch/kaustubh.ponkshe">
-        <img src="./photos/Kaustubh Shripadraj Ponkshe.jpg" alt="Kaustubh Shripadraj Ponkshe"/>
+        <img src="./photos/Kaustubh Shripadraj Ponkshe.png" alt="Kaustubh Shripadraj Ponkshe"/>
         <br/>
         <sub><b>Kaustubh Shripadraj Ponkshe</b></sub>
       </a>
