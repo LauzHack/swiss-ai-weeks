@@ -153,6 +153,8 @@ Only work done during hackathon will be considered (and should be made explicit)
 
 A BIG thank you to the [EPFL AI Team](https://epflaiteam.ch) for co-hosting the event, to the [EPFL AI Center](https://ai.epfl.ch/) for kindly allowing us to use their room, and to [Swisscom](https://www.swisscom.ch), the [Swiss {ai} Weeks](https://swiss-ai-weeks.ch/) and the [Canton de Vaud](https://vd.ch) for sponsoring and letting us organise this event!
 
+We would also like to give a BIG thank you to [Prof. Martin Jaggi](https://people.epfl.ch/martin.jaggi) for giving a talk about the Aperture model.
+
 <table align="center">
   <tr>
     <td align="center">
