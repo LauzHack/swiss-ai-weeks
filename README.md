@@ -32,7 +32,7 @@ The Swiss {ai} Weeks are hackathons aimed at turning AI research into real socie
 
 **Friday, September 26 :**
 
-- **8:30-9:30**: Registration and breakfast
+- **8:45-10:00**: Registration and breakfast
 - **10:00 - 10:15**: Opening ceremony
 - **10:20 - 11:40**: Tech talks
 - **11:40 - 12:00**: Team building
