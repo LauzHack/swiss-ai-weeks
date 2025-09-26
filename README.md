@@ -32,7 +32,7 @@ The Swiss {ai} Weeks are hackathons aimed at turning AI research into real socie
 
 **Friday, September 26 :**
 
-- **8:00**: Registration and breakfast
+- **8:30-9:30**: Registration and breakfast
 - **10:00 - 10:15**: Opening ceremony
 - **10:20 - 11:40**: Tech talks
 - **11:40 - 12:00**: Team building
@@ -120,9 +120,9 @@ Only work done during hackathon will be considered (and should be made explicit)
     </td>
     <td align="center" width="16.6%">
       <a href="https://www.open-systems.com/leadership/marta-martinez/">
-        <img src="./photos/Marta_Martinez.jpg" alt="Marta Martinez"/>
+        <img src="./photos/Marta_Martinez.jpg" alt="Dr. Marta Martinez"/>
         <br/>
-        <sub><b>Marta Martinez</b></sub>
+        <sub><b>Dr. Marta Martinez</b></sub>
       </a>
     </td>
     <td align="center" width="16.6%">
