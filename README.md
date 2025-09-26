@@ -170,7 +170,7 @@ A BIG thank you to the [EPFL AI Team](https://epflaiteam.ch) for co-hosting the 
       </a>
     </td>
     <td align="center">
-      <a href="https://people.epfl.ch/seyed.neshaei">
+      <a href="https://vd.ch">
         <img src="./photos/cdv.svg" alt="Canton de Vaud" height="175.2px"/>
         <br/>
         <sub><b>Canton de Vaud</b></sub>
