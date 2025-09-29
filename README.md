@@ -15,6 +15,8 @@ Come join us for the fun an innovative hackathon exploring AI technologies! Let'
 
 ## 1. General Information
 
+This hackathon has ended. The winners can be found on [Devpost](https://swiss-ai-weeks-lausanne.devpost.com/project-gallery)!
+
 ### **Date & Time:**
 
 - **Date:** Friday, September 26 to Saturday, September 27
